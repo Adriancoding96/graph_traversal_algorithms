@@ -1,0 +1,3 @@
+C:/Users/adria/CLionProjects/graph_traversal_algorithms/cmake-build-debug/CMakeFiles/mark_and_sweep_algorithm.dir
+C:/Users/adria/CLionProjects/graph_traversal_algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/adria/CLionProjects/graph_traversal_algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir

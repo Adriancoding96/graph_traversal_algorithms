@@ -1,0 +1,5 @@
+# ninja log v5
+3	650	7350505974664231	CMakeFiles/mark_and_sweep_algorithm.dir/main.cpp.obj	53247976587dabcd
+651	937	7350505977542786	mark_and_sweep_algorithm.exe	73f24d174633a048
+4	762	7350507330701378	CMakeFiles/mark_and_sweep_algorithm.dir/main.cpp.obj	4b294047d51bbabe
+762	972	7350507332841355	mark_and_sweep_algorithm.exe	73f24d174633a048
